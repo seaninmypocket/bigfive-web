@@ -76,12 +76,9 @@ Run to deploy
 vc --confirm
 ```
 
-## Deploy using [Docker Compose](https://docs.docker.com/compose/)
+## Deploy using [Docker](https://www.docker.com/)
 
-```bash
-cd docker
-docker-compose up
-```
+Todo
 
 ## Related
 
