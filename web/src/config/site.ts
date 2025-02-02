@@ -15,6 +15,7 @@ export type Language = {
 
 export const languages: Language[] = [
   { code: 'en', name: 'English', countryCode: 'us', map: ['en-GB'] },
+  { code: 'ko', name: 'Korean', countryCode: 'ko', map: ['ko-KR', 'ko'] },
   { code: 'ar', name: 'Arabic', map: ['ar-sa'] },
   { code: 'de', name: 'German', countryCode: 'de', map: ['de-DE'] },
   {
